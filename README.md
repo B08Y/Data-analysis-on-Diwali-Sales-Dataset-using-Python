@@ -1,6 +1,6 @@
 🎉 Unveiling Insights from Diwali Sales Dataset: A Deep Dive into Exploratory Data Analysis (EDA) 📊
 
-Hello LinkedIn community! 👋 I'm excited to share the incredible journey I embarked on while conducting Exploratory Data Analysis (EDA) on a captivating Diwali sales dataset. 🪔📈
+👋 I'm excited to share the incredible journey I embarked on while conducting Exploratory Data Analysis (EDA) on a captivating Diwali sales dataset. 🪔📈
 
 📌 Illuminating the Diwali Sales Landscape:
 For those intrigued, the Diwali sales dataset captures the essence of festive shopping during this vibrant season. Through data exploration, I've unraveled valuable patterns and trends that shed light on consumer behavior and market dynamics.
